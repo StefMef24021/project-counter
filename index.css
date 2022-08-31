@@ -1,0 +1,45 @@
+body {
+    background-image: url("msn1.jpg");
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rebeccapurple
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: orange;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: wheat;
+}
+
+#save-btn {
+    background: whitesmoke;
+}
+p {
+    color: purple
+}
+
+div {
+    max-width: 100pxpx
+}
